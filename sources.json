@@ -1,0 +1,8 @@
+[
+	{"url":"https://www.spe.org/en/jpt/technology/", "heading": "Раздел: 'TECHNOLOGY'", "selector":"body > div.container-fluid > div.container-liquid.page-content.background > div > div > div.col-sm-8.col-lg-7.col-lg-offset-1.areaContent > article"},
+	{"url":"http://www.oil-industry.net/Journal/hot.php?ID=11324", "heading": "Раздел: 'Свежий номер'", "selector":"body > div.wrapper-page.wp-gray > div > div.wp-sub > div.ccleft > div > div > table > tbody > tr > td > p.news-item"},
+	{"url":"https://www.usgs.gov/news/news-releases", "heading":"Раздел: News Releases", "selector":"#news-releases > div.container > div.row > section.sub-content > div.panel-pane.pane-views-panes.pane-news-by-type-panel-pane-2 > div > div > div.view-content > div > div.row.views-row > div.col-sm-12.views-column"},
+	{"url":"http://neftegas.info/news/", "heading":"  Раздел: НОВОСТИ", "selector":"div > a.news-list-all"},
+	{"url":"http://neftegas.info/", "heading":"Раздел: СТАТЬИ", "selector":"body > div.wrapper > div.middle > div > main > div.article-wrap > div.article-list"},
+	{"url":"http://www.vkit.ru/index.php/news", "heading":" Раздел: НОВОСТИ", "selector":"#body_bg div.main table.contentpaneopen"}
+]
